@@ -15,6 +15,7 @@ as well as database application e.x MySQL Workbench and MySQL Community(download
 +	Folder “External libs” contains the libraries used in this project, instruction to import the files(which is JDBC and LGoodDatePicker) is demonstrated in the demo video.
 
 ===========================o-0-o===========================
+
 This project was made by Nguyễn Tiến Đạt and Đỗ Hoàng Long.
 
 Email:
